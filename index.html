@@ -726,8 +726,8 @@ body { font-family: 'Prompt', sans-serif; }
           <p class="text-subtle mt-1">อิสระช้อปปิ้ง ซูเปอร์มาร์เก็ต ช้อปปิ้งสินค้าพื้นเมืองของเกาหลี เช่น บะหมี่กึ่งสำเร็จรูปเกาหลี , นมกล้วย , เยลลี่ยาคูลท์ และสินค้าแบรนด์พื้นเมืองต่างๆ มากมาย</p>
           <div class="img-slider">
             <div class="img-slider-track">
-              <div class="img-slide"><img src="https://fit-d.com/uploads/food/41d6dbf1299324481f08f7bc40c6c42a.jpg" loading="lazy" alt="Korean Supermarket 1"></div>
-              <div class="img-slide"><img src="https://www.you.co/th/wp-content/uploads/sites/9/2022/04/7-Select-jelly-Yogurt.jpg" loading="lazy" alt="Korean Supermarket 2"></div>
+              <div class="img-slide"><img src="https://i.postimg.cc/RF38c1nP/S-88899638-0.jpg" loading="lazy" alt="Korean Supermarket 1"></div>
+              <div class="img-slide"><img src="https://i.postimg.cc/XqS2dRW8/S-88899639-0.jpg" loading="lazy" alt="Korean Supermarket 2"></div>
             </div>
             <div class="img-slider-dots"><span class="active"></span><span></span></div>
             <div class="img-slider-counter">1/2</div>
