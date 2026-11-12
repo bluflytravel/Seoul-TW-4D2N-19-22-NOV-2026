@@ -671,7 +671,7 @@ body { font-family: 'Prompt', sans-serif; }
       <span class="bg-brand text-white w-10 h-10 rounded-full flex items-center justify-center font-bold">4</span>
       <div>
         <h3 class="font-semibold text-lg">วันอาทิตย์ที่ 22 พฤศจิกายน 2569</h3>
-        <p class="text-sm text-subtle">โซล</p>
+        <p class="text-sm text-subtle">โซล → กรุงเทพฯ</p>
       </div>
       <span class="ml-auto text-2xl">🇰🇷</span>
     </div>
@@ -755,10 +755,10 @@ body { font-family: 'Prompt', sans-serif; }
 <div id="day-5" class="day-content" style="display:none;">
       <div class="day-card bg-white rounded-2xl p-6 shadow-sm border border-brand/10">
        <div class="flex items-center gap-3 mb-4">
-        <span class="bg-brand text-white w-10 h-10 rounded-full flex items-center justify-center font-bold">4</span>
+        <span class="bg-brand text-white w-10 h-10 rounded-full flex items-center justify-center font-bold">5</span>
         <div>
          <h3 class="font-semibold text-lg">วันจันทร์ที่ 23 พฤศจิกายน 2569</h3>
-         <p class="text-sm text-subtle">โซล </p>
+         <p class="text-sm text-subtle">กรุงเทพฯ  </p>
         </div>
         <span class="ml-auto text-2xl"></span>
        </div>
